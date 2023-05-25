@@ -60,6 +60,10 @@ main section h2 {
     padding-top: 2rem;
 }
 
+main section h3 {
+    padding-top: 2rem;
+}
+
 main #reading .exercise p {
     font-size: 1rem;
 }
